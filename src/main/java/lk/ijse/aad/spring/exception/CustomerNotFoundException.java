@@ -1,14 +1,14 @@
-package lk.ijse.aad.notecollector.exception;
+package lk.ijse.aad.spring.exception;
 
-public class UserNotFoundException extends RuntimeException{
+public class CustomerNotFoundException extends RuntimeException{
 
-    public UserNotFoundException() {
+    public CustomerNotFoundException() {
     }
 
-    public UserNotFoundException(String message) {
+    public CustomerNotFoundException(String message) {
 
     }
-    public UserNotFoundException(String message, Throwable cause) {
+    public CustomerNotFoundException(String message, Throwable cause) {
 
     }
 }

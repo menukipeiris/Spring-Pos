@@ -1,2 +1,6 @@
-package lk.ijse.aad.spring.dto;public interface ItemStatus {
+package lk.ijse.aad.spring.dto;
+
+import java.io.Serializable;
+
+public interface ItemStatus extends Serializable,SuperDTO {
 }

@@ -10,8 +10,8 @@ import lombok.NoArgsConstructor;
 @Data
 
 public class CustomerDTO implements CustomerStatus {
-    private String cust_id;
-    private String cust_name;
-    private String cust_address;
-    private String cust_salary;
+    private String custId;
+    private String custName;
+    private String custAddress;
+    private String custSalary;
 }

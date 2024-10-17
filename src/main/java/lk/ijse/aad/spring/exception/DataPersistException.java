@@ -1,4 +1,4 @@
-package lk.ijse.aad.notecollector.exception;
+package lk.ijse.aad.spring.exception;
 
 public class DataPersistException extends RuntimeException{
 
