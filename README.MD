@@ -47,7 +47,7 @@ DELETE /api/v1/item/{id} Delete an item
 
 GET /api/v1/items Get all items
 
-Order Endpoints
+*Order Endpoints
 POST /api/v1/order Place a new order
 
 GET /api/v1/order/{id} Get order details by ID
