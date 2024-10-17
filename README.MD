@@ -1,4 +1,5 @@
 POS System API
+
 This API is designed to manage the core functionalities of a Point-of-Sale (POS) system, including managing customers, items, and orders. The API is built using the Spring Framework and follows a RESTful architecture.
 
 **Core Entities:
