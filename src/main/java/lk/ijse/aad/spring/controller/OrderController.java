@@ -28,6 +28,7 @@ public class OrderController {
         try {
             orderService.placeOrder(requestOrderDTO.getOrder(),requestOrderDTO.getOrderDetails());
             logger.info("Order successfully placed");
+            System.out.println();
             return new ResponseEntity<>(HttpStatus.CREATED);
         }catch (DataPersistException e){
             logger.warn("Returning 400 Bad Request",e.getMessage());
