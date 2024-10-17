@@ -44,7 +44,7 @@ Java Version: 21
 
 **Setup and Installation
 1.Clone the repository
-git clone //https://github.com/glen654/POS-API-Spring.git
+git clone //https://github.com/menukipeiris/Spring-Pos
 
 2.Navigate to the project directory
 cd POS-API-Spring
