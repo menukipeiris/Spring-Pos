@@ -69,6 +69,7 @@ Dependency Management: Maven
 Java Version: 21
 
 **Setup and Installation
+
 1.Clone the repository
 git clone //https://github.com/menukipeiris/Spring-Pos
 
